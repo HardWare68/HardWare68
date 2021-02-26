@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HardWare68)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **HardWare68/HardWare68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
